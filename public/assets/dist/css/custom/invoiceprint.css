@@ -1,0 +1,19 @@
+
+@media print {
+
+
+    .btn
+    {
+        display:none;
+    }
+    .NoPrint{
+        display:none;
+    }
+
+    .print{
+        display:none;
+    }
+
+}
+
+
